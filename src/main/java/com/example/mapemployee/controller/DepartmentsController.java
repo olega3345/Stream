@@ -16,7 +16,7 @@ public class DepartmentsController {
     private final DepartmentService departmentService;
 
 
-    public DepartmentsController(DepartmentService departmentService) {
+     public DepartmentsController(DepartmentService departmentService) {
         this.departmentService = departmentService;
     }
 
